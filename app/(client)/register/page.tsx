@@ -84,7 +84,7 @@ const RegisterPage = () => {
               서비스 이용하기
             </h1>
             <p className="text-[#6B6B6B] text-center font-pretendard text-[20px] font-medium leading-normal">
-              AI 사업 보고서 생성 서비스를 시작해보세요
+              AI 사업 보고서 생성 서비스를 시작해보세요...
             </p>
           </div>
 
