@@ -14,12 +14,12 @@ export default function Home() {
         <div className="mt-[97px] flex h-[287px] w-[884px] flex-col items-center gap-[33px] z-10">
           <div className="flex flex-col items-center gap-[14px] self-stretch">
             <h1 className="self-stretch text-center text-[52px] font-bold leading-[72px] text-[#1A1A1A]">
-              AI 사업보고서를
+              입학에서 취업까지
               <br />
-              5분 만에 생성해보세요
+              성공적인 미래를 설계해보세요!
             </h1>
             <p className="self-stretch text-center text-2xl font-normal leading-8 text-[#303030]">
-              AI 기반 보고서 자동 생성, 전문가 피드백, 컨설팅까지 한 번에!
+              AI 기반 미래 설계, 전문가 피드백, 컨설팅까지 한 번에!
             </p>
           </div>
 
@@ -156,7 +156,7 @@ export default function Home() {
                       AI Report Generator
                     </h3>
                     <p className="self-stretch text-xl font-normal leading-[30px] text-[#5A5A5A]">
-                      단순 입력만으로도 전문적인 사업보고서를 자동 생성합니다.
+                      입학부 취험까지 원스톱 로드맵 설계!
                       <br />
                       업종/목표투자/핵심가치를 입력하면 5분 만에 초안이
                       완성됩니다.
@@ -195,7 +195,7 @@ export default function Home() {
                       AI Diagnosis & Insights
                     </h3>
                     <p className="self-stretch text-xl font-normal leading-[30px] text-[#5A5A5A]">
-                      생성된 보고서를 AI가 자동으로 분석하고 점수화합니다.
+                      나의 정보로 미래를 AI가 자동으로 분석하고 설계합니다.
                       <br />
                       항목별 피드백과 개선 가이드를 통해 보고서를 더 완성도 있게
                       <br />
