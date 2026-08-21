@@ -9,27 +9,27 @@ const defaultUrl = process.env.NEXT_PUBLIC_SITE_URL ||
 
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "리포트 어시스턴트",
-  description: "리포트 어시스턴트",
+  title: "한영대학교 AI기반 산학연 통합시스템",
+  description: "한영대학교 AI기반 산학연 통합시스템",
   icons: {
     icon: "/images/logo_meta.png",
   },
   openGraph: {
-    title: "AI 사업계획서",
-    description: "AI 사업계획서",
+    title: "한영대학교 AI기반 산학연 통합시스템",
+    description: "한영대학교 AI기반 산학연 통합시스템",
     images: [
       {
         url: "/images/logo_meta.png",
         width: 1200,
         height: 630,
-        alt: "AI 사업계획서",
+        alt: "한영대학교 AI기반 산학연 통합시스템",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI 사업계획서",
-    description: "AI 사업계획서",
+    title: "한영대학교 AI기반 산학연 통합시스템",
+    description: "한영대학교 AI기반 산학연 통합시스템",
     images: ["/images/logo_meta.png"],
   },
 };
